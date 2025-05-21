@@ -8,8 +8,10 @@ $TTL 86400
 ;
 @   IN  NS  master1.example.com.
 
-90.232  IN PTR  master1.okd4.example.com. 
-118.230 IN PTR  master2.okd4.example.com.
-150.232 IN PTR  worker.okd4.example.com. 
-60.231  IN PTR  api.okd4.example.com. 
-254.231 IN PTR  bootstrap.okd4.example.com.
+11.232  IN PTR  master1.okd4.example.com. 
+99.231 IN PTR  master2.okd4.example.com.
+209.230 IN PTR  master3.okd4.example.com.
+125.230 IN PTR  worker1.okd4.example.com. 
+141.231 IN PTR  worker2.okd4.example.com. 
+94.231  IN PTR  api.okd4.example.com. 
+111.232 IN PTR  bootstrap.okd4.example.com.
