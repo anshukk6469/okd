@@ -16,7 +16,7 @@ worker2.okd4.example.com.      IN  A   172.25.231.141
 api.okd4.example.com.         IN  A   172.25.231.94
 api-int.okd4.example.com.     IN  A   172.25.231.94
 bootstrap.okd4.example.com.   IN  A   172.25.232.111
-*.okd4.example.com            IN  A   172.25.231.94
+*            IN  A   172.25.231.94
 *.apps.okd4.example.com. IN A 172.25.231.94
 
 
